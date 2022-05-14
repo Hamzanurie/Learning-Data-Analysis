@@ -1,0 +1,20 @@
+
+# Learning-Data-Analysis
+Introduction to Data Analysis , exploring the capabilities of python and PI Data stack to perform data analysis 
+
+Learn How to read data from multiple data sources such as databases, CSV and execel Files,
+ How to clean and transform it by applying statistical Functions.
+
+Learn How to create beautiful visualizations will show you all the important tools of the PI Data stack pandas, 
+matplotlib, Seabourn and many others. 
+This tutorial is going to be useful raditional data analysts coming from Excel, tableau, etc. 
+About the tutorial
+1. What is Data Analysis
+2. Real Example Data Analysis with python
+3. How to Use Jupiter Notebook
+4. Intro NumPy
+5. Intro Pandas
+6. Data Cleaning
+7. Reading Data SQL, CSV, API, etc
+8. Python
+

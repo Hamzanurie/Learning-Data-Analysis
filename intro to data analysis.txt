@@ -1,0 +1,6 @@
+
+
+What is data analysis
+> The process of inspecting , cleaning , transforming and modeling data 
+with the goal of discovering useful information, informing conclusion
+supporting decision-making.
